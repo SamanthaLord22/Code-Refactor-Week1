@@ -86,17 +86,8 @@ p {
     background-color: #2589bd;
 }
 
+/*Consolidated .benefit-cost and .benefit-brand into .benefit-lead*/
 .benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -115,6 +106,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
 
 .benefit-lead img {
     display: block;
